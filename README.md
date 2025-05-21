@@ -12,7 +12,7 @@ need to correct any of the Tilix to kitty mappings, all you need is the
 local `kitty.conf`, or:
 
 ```
-CONF=https://raw.githubusercontent.com/a-librarian-a/tilix-keyboard-shortcuts-for-kitty/refs/heads/master/tilix_keyboard_defaults.conf
+CONF=https://raw.githubusercontent.com/a-librarian-a/tilix-keyboard-shortcuts-for-kitty/refs/heads/main/tilix_keyboard_defaults.conf
 wget "$CONF" -P ~/.config/kitty/tilix_keyboard_defaults.conf 
 ```
 
